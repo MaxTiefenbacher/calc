@@ -1,6 +1,7 @@
-from std_operations import Add
+from std_operations import Add,pow
 
 a = int(3)
 b = int(4)
 c = Add(a,b)
-print(str(c)+"\n")
+d=pow(a,b)
+print(str(c)+str(d)+"\n")
