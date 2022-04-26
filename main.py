@@ -1,6 +1,6 @@
 from std_operations import Add
 
-a = 3
-b = 4
+a = int(3)
+b = int(4)
 c = Add(a,b)
-print(c+"\n")
+print(str(c)+"\n")
