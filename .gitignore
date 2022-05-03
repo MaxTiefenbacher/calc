@@ -1,3 +1,4 @@
 # we dont want these folders
-/__pycache__
+__pycache__/*
 # we dont want these files
+*.swp
